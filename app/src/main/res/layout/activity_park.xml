@@ -101,10 +101,10 @@
 
     <TextView
         android:id="@+id/textView3"
-        android:layout_width="220dp"
+        android:layout_width="wrap_content"
         android:layout_height="61dp"
         android:layout_marginTop="5dp"
-        android:text="My Location"
+        android:text="Parking"
         android:textColor="@android:color/black"
         android:textSize="40sp"
         app:layout_constraintEnd_toEndOf="parent"
